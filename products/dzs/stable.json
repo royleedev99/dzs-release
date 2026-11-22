@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "productId": "dzs",
   "channel": "stable",
-  "revision": 2,
-  "generatedAt": "2026-11-22T10:50:28Z",
+  "revision": 3,
+  "generatedAt": "2026-11-22T10:58:08Z",
   "enabled": true,
   "latestVersion": "1.0.0",
-  "build": 2,
+  "build": 3,
   "minimumVersion": "",
   "blockedVersions": [
     "1.0.0"
@@ -17,20 +17,20 @@
   "rolloutPercent": 100,
   "rolloutSalt": "1.0.0",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-22T10:50:22Z",
-  "title": "v1.0.0-b2",
-  "notes": "ini",
-  "releasePageUrl": "https://github.com/royleedev99/dzs-release/releases/tag/v1.0.0-b2",
+  "publishedAt": "2026-11-22T10:58:01Z",
+  "title": "v1.0.0-b3",
+  "notes": "初始化",
+  "releasePageUrl": "https://github.com/royleedev99/dzs-release/releases/tag/v1.0.0-b3",
   "assets": {
     "windows-amd64": {
       "fileName": "dzs-1.0.0-windows-amd64.exe",
       "size": 8655387,
-      "sha256": "06b5ed3b16df870cec84bcb3c7f3bd9a7c049fb58d9dd6db31cd1a559d1e87d2",
+      "sha256": "5c79e49adf208be7e04607c63f097bb955cc00c60cf5d903da2bb4490a43c25f",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b2/dzs-1.0.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b2/dzs-1.0.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b2/dzs-1.0.0-windows-amd64.exe",
-        "https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b2/dzs-1.0.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe",
+        "https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe"
       ]
     }
   },
