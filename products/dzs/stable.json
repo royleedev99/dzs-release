@@ -2,35 +2,33 @@
   "schemaVersion": 2,
   "productId": "dzs",
   "channel": "stable",
-  "revision": 3,
-  "generatedAt": "2026-11-22T10:58:08Z",
+  "revision": 4,
+  "generatedAt": "2026-11-22T11:01:20Z",
   "enabled": true,
-  "latestVersion": "1.0.0",
-  "build": 3,
+  "latestVersion": "1.0.1",
+  "build": 1,
   "minimumVersion": "",
-  "blockedVersions": [
-    "1.0.0"
-  ],
+  "blockedVersions": [],
   "allowDowngrade": false,
-  "force": true,
+  "force": false,
   "forceAfter": "",
   "rolloutPercent": 100,
-  "rolloutSalt": "1.0.0",
+  "rolloutSalt": "1.0.1",
   "recheckIntervalMinutes": 240,
-  "publishedAt": "2026-11-22T10:58:01Z",
-  "title": "v1.0.0-b3",
-  "notes": "初始化",
-  "releasePageUrl": "https://github.com/royleedev99/dzs-release/releases/tag/v1.0.0-b3",
+  "publishedAt": "2026-11-22T11:01:10Z",
+  "title": "v1.0.1",
+  "notes": "测试更新",
+  "releasePageUrl": "https://github.com/royleedev99/dzs-release/releases/tag/v1.0.1",
   "assets": {
     "windows-amd64": {
-      "fileName": "dzs-1.0.0-windows-amd64.exe",
+      "fileName": "dzs-1.0.1-windows-amd64.exe",
       "size": 8655387,
-      "sha256": "5c79e49adf208be7e04607c63f097bb955cc00c60cf5d903da2bb4490a43c25f",
+      "sha256": "c18cfc51ee8aa6d1fea2ad613f8d674c1c9204f1f2558e614074ca3d0ad8b12f",
       "downloadUrls": [
-        "https://gh-proxy.com/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe",
-        "https://ghfast.top/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe",
-        "https://ghproxy.net/https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe",
-        "https://github.com/royleedev99/dzs-release/releases/download/v1.0.0-b3/dzs-1.0.0-windows-amd64.exe"
+        "https://gh-proxy.com/https://github.com/royleedev99/dzs-release/releases/download/v1.0.1/dzs-1.0.1-windows-amd64.exe",
+        "https://ghfast.top/https://github.com/royleedev99/dzs-release/releases/download/v1.0.1/dzs-1.0.1-windows-amd64.exe",
+        "https://ghproxy.net/https://github.com/royleedev99/dzs-release/releases/download/v1.0.1/dzs-1.0.1-windows-amd64.exe",
+        "https://github.com/royleedev99/dzs-release/releases/download/v1.0.1/dzs-1.0.1-windows-amd64.exe"
       ]
     }
   },
