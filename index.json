@@ -1,1 +1,14 @@
-{}
+{
+  "generatedAt": "2026-11-22T10:43:43Z",
+  "products": [
+    {
+      "channels": [
+        "stable"
+      ],
+      "id": "dzs",
+      "manifestPath": "products/dzs/{channel}.json",
+      "name": "D助手"
+    }
+  ],
+  "schemaVersion": 2
+}
